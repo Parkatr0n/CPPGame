@@ -1,0 +1,9 @@
+﻿  Player.cpp
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\player.h(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\player.h(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Enemy.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

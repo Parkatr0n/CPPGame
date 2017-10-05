@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\parka_000\desktop\___ lambertp\cpp\i fucking hate sfml\i fucking hate sfml\main.cpp(49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  i fucking hate sfml.vcxproj -> C:\Users\parka_000\Desktop\___ LambertP\cpp\i fucking hate sfml\Debug\i fucking hate sfml.exe
+  i fucking hate sfml.vcxproj -> C:\Users\parka_000\Desktop\___ LambertP\cpp\i fucking hate sfml\Debug\i fucking hate sfml.pdb (Partial PDB)
